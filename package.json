@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bryanyee/daredevil.git"
+    "url": "git+https://github.com/vallantry/daredevil.git"
   },
   "author": "Bryan Yee <yee.bryan.c@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bryanyee/daredevil/issues"
+    "url": "https://github.com/vallantry/daredevil/issues"
   },
-  "homepage": "https://github.com/bryanyee/daredevil#readme",
+  "homepage": "https://github.com/vallantry/daredevil#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
